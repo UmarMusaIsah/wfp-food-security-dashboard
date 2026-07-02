@@ -1,0 +1,164 @@
+# Portfolio Case Study — WFP Kano Food Security Dashboard
+
+## Project Overview
+
+I developed a humanitarian analytics dashboard inspired by the World Food Programme (WFP) to monitor food security conditions across selected Local Government Areas (LGAs) in Kano State, Nigeria.
+
+This project was designed to simulate a real-world decision-support system used by humanitarian organizations to identify hunger hotspots, assess household vulnerability, and track market-driven food insecurity.
+
+The solution transforms raw household survey data into actionable insights for operational planning and intervention prioritization.
+
+---
+
+## Business Problem
+
+Food insecurity remains a critical challenge in many communities due to:
+
+* Rising food inflation
+* Low household income
+* Large family sizes
+* Economic vulnerability
+* Displacement and instability
+
+Humanitarian agencies require timely, reliable, and visual reporting tools to answer key operational questions:
+
+* Which areas are most vulnerable?
+* Which households face severe hunger?
+* How are market prices affecting purchasing power?
+* Where should aid be prioritized?
+
+Without centralized analytics, reporting becomes fragmented and slow.
+
+---
+
+## Project Objectives
+
+The primary objectives of this project were to:
+
+* Monitor household food security indicators
+* Identify high-risk hunger zones
+* Analyze food market inflation trends
+* Measure vulnerability across LGAs
+* Support evidence-based intervention planning
+
+---
+
+## Dataset Development
+
+Since no public Kano-specific WFP dataset was available, I generated a realistic synthetic dataset using Python.
+
+The dataset includes over **3,000 household records** with:
+
+* Household demographics
+* Income sources and monthly income
+* Household size
+* Gender of household head
+* Food Consumption Score (FCS)
+* Reduced Coping Strategy Index (rCSI)
+* Hunger classification
+* LGA segmentation
+* Market price trends for staple foods
+
+Data was cleaned and validated in Microsoft Excel before being modeled in Power BI.
+
+---
+
+## Tools & Technologies
+
+* Python (Synthetic Data Generation)
+* Microsoft Excel (Data Cleaning & Validation)
+* Power BI (Dashboard Development)
+* DAX (Measures & KPIs)
+
+---
+
+## Dashboard Features
+
+The dashboard consists of four interactive pages:
+
+### 1. Executive Summary
+
+Provides high-level KPIs:
+
+* Total Households Surveyed
+* Average Household Income
+* Severe Hunger %
+* Critical Hunger %
+* Average FCS
+* Average rCSI
+
+### 2. Food Risk Analysis
+
+Analyzes:
+
+* Household size vs hunger severity
+* Income vs vulnerability
+* Gender-based risk patterns
+* IDP impact
+
+### 3. Market Monitoring
+
+Tracks:
+
+* Rice price trends
+* Millet price trends
+* Food inflation by LGA
+* Purchasing pressure
+
+### 4. Insights & Recommendations
+
+Summarizes major findings and operational recommendations.
+
+---
+
+## Key Insights
+
+Analysis revealed several important findings:
+
+* Rural LGAs showed higher food insecurity than urban LGAs
+* Low-income households faced significantly higher hunger risk
+* Larger households (8+ members) were more vulnerable
+* Food inflation reduced household purchasing power
+* Households with low FCS had higher coping stress
+
+---
+
+## Business Impact
+
+This dashboard enables humanitarian stakeholders to:
+
+* Detect hunger hotspots faster
+* Prioritize intervention areas
+* Improve aid allocation efficiency
+* Support donor reporting
+* Enhance evidence-based planning
+
+The project demonstrates how analytics can improve humanitarian decision-making by converting complex survey data into clear operational intelligence.
+
+---
+
+## Skills Demonstrated
+
+This project showcases my ability to:
+
+* Design end-to-end analytics solutions
+* Generate realistic datasets using Python
+* Clean and validate data
+* Build professional Power BI dashboards
+* Apply KPI-driven storytelling
+* Communicate business insights effectively
+
+---
+
+## Final Outcome
+
+The final deliverables include:
+
+* Python data generation script
+* Excel dataset
+* Power BI dashboard
+* Executive PDF report
+* Presentation deck
+* Portfolio-ready documentation
+
+This project reflects the type of analytical work required in organizations such as WFP, UNICEF, UNDP, and other humanitarian agencies.
