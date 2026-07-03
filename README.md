@@ -166,3 +166,8 @@ GitHub: https://github.com/UmarMusaIsah
 ---
 
 > Turning humanitarian data into life-saving decisions.
+
+## Portfolio Navigation
+
+🔗 Master Portfolio: https://github.com/UmarMusaIsah/data-analytics-portfolio
+
