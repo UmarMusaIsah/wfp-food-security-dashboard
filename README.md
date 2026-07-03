@@ -161,8 +161,8 @@ This dashboard demonstrates how data analytics can improve food security monitor
 Data Analyst | Monitoring & Evaluation Professional | Dashboard Specialist
 
 Email: umarmusapress@gmail.com  
-GitHub: https://github.com/UmarMusaIsah
-https://www.linkedin.com/in/umar-musa-isah-997821408
+GitHub: https://github.com/UmarMusaIsah  
+LinkedIn: https://www.linkedin.com/in/umar-musa-isah-997821408
 ---
 
 > Turning humanitarian data into life-saving decisions.
